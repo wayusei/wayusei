@@ -28,10 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wayusei&show_icons=true&locale=en" alt="wayusei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wayusei&" alt="wayusei" /></p>
-
-
-<!-- # Rodrigo Rosas Zamudio -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayusei)](https://github.com/wayusei/github-readme-stats) -->
-
-<!-- [![Wayusei's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayusei&show_icons=true&theme=transparent)](https://github.com/wayusei/github-readme-stats) -->
